@@ -36,6 +36,7 @@ ul {
 /* hero section */
 .hero-title {
 	color: var(--color-primary-light);
+	font-family: 'Rockwell';
 }
 
 .hero-title .accent {
